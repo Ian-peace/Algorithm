@@ -4,6 +4,7 @@
 #include "SortTestHelper.h"
 using namespace std;
 
+//选择排序
 template<typename T>
 void selectionSort( T arr[], int n){
 	for (int i = 0; i < n; i++){

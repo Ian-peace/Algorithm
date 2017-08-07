@@ -963,3 +963,417 @@ Finished building target: SelectionSort
  
 
 **** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: insertionSort
+Invoking: GCC C++ Linker
+g++  -o "insertionSort"  ./main.o   
+Finished building target: insertionSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: insertionSort
+Invoking: GCC C++ Linker
+g++  -o "insertionSort"  ./main.o   
+Finished building target: insertionSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: insertionSort
+Invoking: GCC C++ Linker
+g++  -o "insertionSort"  ./main.o   
+Finished building target: insertionSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: insertionSort
+Invoking: GCC C++ Linker
+g++  -o "insertionSort"  ./main.o   
+Finished building target: insertionSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: insertionSort
+Invoking: GCC C++ Linker
+g++  -o "insertionSort"  ./main.o   
+Finished building target: insertionSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: insertionSort
+Invoking: GCC C++ Linker
+g++  -o "insertionSort"  ./main.o   
+Finished building target: insertionSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: insertionSort
+Invoking: GCC C++ Linker
+g++  -o "insertionSort"  ./main.o   
+Finished building target: insertionSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+../main.cpp: In function ‘int main()’:
+../main.cpp:41:63: error: too many arguments to function ‘int* SortTestHelper::generateNearlyOrderedArray(int, int)’
+  int *arr = SortTestHelper::generateNearlyOrderedArray(n, 0, n);
+                                                               ^
+In file included from ../main.cpp:4:0:
+../SortTestHelper.h:34:11: note: declared here
+     int * generateNearlyOrderedArray(int n, int swapTimes){
+subdir.mk:18: recipe for target 'main.o' failed
+           ^
+make: *** [main.o] Error 1
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: insertionSort
+Invoking: GCC C++ Linker
+g++  -o "insertionSort"  ./main.o   
+Finished building target: insertionSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project BubbleSort ****
+
+Nothing to build for project BubbleSort
+
+**** Build of configuration Debug for project SelectionSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: SelectionSort
+Invoking: GCC C++ Linker
+g++  -o "SelectionSort"  ./main.o   
+Finished building target: SelectionSort
+ 
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Debug for project insertionSort ****
+
+make clean 
+rm -rf  ./main.o  ./main.d  insertionSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: insertionSort
+Invoking: GCC C++ Linker
+g++  -o "insertionSort"  ./main.o   
+Finished building target: insertionSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project BubbleSort ****
+
+Nothing to build for project BubbleSort
+
+**** Clean-only build of configuration Debug for project InsertionSort ****
+
+make clean 
+rm -rf  ./main.o  ./main.d  insertionSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project InsertionSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: InsertionSort
+Invoking: GCC C++ Linker
+g++  -o "InsertionSort"  ./main.o   
+Finished building target: InsertionSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project SelectionSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project InsertionSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project InsertionSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project BubbleSort ****
+
+Nothing to build for project BubbleSort
+
+**** Build of configuration Debug for project SelectionSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Clean-only build of configuration Debug for project insertionSort ****
+
+make clean 
+rm -rf  ./main.o  ./main.d  InsertionSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: insertionSort
+Invoking: GCC C++ Linker
+g++  -o "insertionSort"  ./main.o   
+Finished building target: insertionSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project BubbleSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: BubbleSort
+Invoking: GCC C++ Linker
+g++  -o "BubbleSort"  ./main.o   
+Finished building target: BubbleSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project SelectionSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project BubbleSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project BubbleSort ****
+
+make all 
+Building target: BubbleSort
+Invoking: GCC C++ Linker
+g++  -o "BubbleSort"  ./main.o   
+Finished building target: BubbleSort
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project SelectionSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project BubbleSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project BubbleSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project SelectionSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project BubbleSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project BubbleSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project SelectionSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project insertionSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project BubbleSort ****
+
+make all 
+make: Nothing to be done for 'all'.
+
+**** Build Finished ****
