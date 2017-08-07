@@ -1,0 +1,16 @@
+
+**** Build of configuration Debug for project SelectionSort ****
+
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.d" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: SelectionSort
+Invoking: GCC C++ Linker
+g++  -o "SelectionSort"  ./main.o   
+Finished building target: SelectionSort
+ 
+
+**** Build Finished ****
